@@ -31,3 +31,5 @@ Say where these live: CSS custom properties, a Tailwind config, a theme object, 
 component library you configured. The template starts with custom properties in
 `client/src/styles.css`. Module 3 covered the alternatives; use the one you can
 defend.
+
+Design System: https://github.com/Technix19/barkadaleauge/blob/main/assets/Barkada_League_Design_System.pdf
