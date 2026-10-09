@@ -12,7 +12,7 @@ from recorded matches instead of by hand.
 > first request after a quiet period can take 50+ seconds while it wakes back
 > up — that's expected, not a bug.
 
-![Leaderboard screenshot](docs/screenshots/leaderboard-desktop.png)
+![Leaderboard screenshot](https://github.com/Technix19/barkadaleauge/blob/main/assets/Barkada_League_Design_System.pdf)
 
 ## What it does
 
@@ -154,24 +154,7 @@ limited to 100 requests per IP every 15 minutes.
 
 ## Screenshots
 
-More screenshots (mobile views, component states, the delete confirmation,
-error state, etc.) are in `docs/screenshots/`.
-
-**Match History (desktop)**
-
-![Match History](docs/screenshots/match-history-desktop.png)
-
-**Record Match**
-
-![Record Match](docs/screenshots/record-match-desktop.png)
-
-**Player Profile**
-
-![Player Profile](docs/screenshots/player-profile-desktop.png)
-
-**Leaderboard (mobile, 375px)**
-
-![Leaderboard mobile](docs/screenshots/leaderboard-mobile.png)
+[Design System](https://github.com/Technix19/barkadaleauge/blob/main/assets/Barkada_League_Design_System.pdf)
 
 ## Architecture
 
